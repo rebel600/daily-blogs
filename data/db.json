@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post!",
+      "datetime": "July 27, 2023 5:24:29 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post!",
+      "datetime": "July 25, 2023 5:56:47 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!!"
+    },
+    {
+      "id": 5,
+      "title": "Task July, 26 2023",
+      "datetime": "July 26, 2023 8:20:24 AM",
+      "body": "1. Mail to HR regarding salary slips.\n2. Call For Scaler Community Support.\n3. Integrate Custom Hooks, Context API, and Redux using Easy-Peasy.\n4. Create JS Project with Chai aur Code.\n5. Revision (3, 4).\n6. Learn DSA concepts with questions.\n7. Complete GCP labs.\n8. Learn CSS styling.\n9. Learn Salesforce Developer.\n10. Revise (6 to 9).\n11. Read 80-20 principles by Dev Gadhvi (30 pages).\n12. Learn SQL."
+    },
+    {
+      "id": 6,
+      "title": "hello",
+      "datetime": "July 27, 2023 5:04:59 AM",
+      "body": "hello world!"
+    },
+    {
+      "id": 7,
+      "title": "testing!!",
+      "datetime": "July 27, 2023 5:35:01 AM",
+      "body": "testing one 2!!"
+    }
+  ]
+}
